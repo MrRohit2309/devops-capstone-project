@@ -1,6 +1,6 @@
 # DevOps Capstone
 
-[![Build Status](https://github.com/MrRohit2309/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/MrRohit2309/devops-capstone-project/actions/workflows/ci-build.yaml)
+![CI Build](https://github.com/MrRohit2309/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 Customer Accounts is a small Flask REST microservice for creating, reading,
 updating, and deleting customer accounts.
